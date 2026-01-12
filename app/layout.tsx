@@ -18,7 +18,7 @@ const options = {
   title: "Kabirou ALASSANE | Développeur d'applications web et mobile & créateur de contenus",
   description:
     "Moi, c'est Kabirou ALASSANE, développeur d'applications web & mobile avec une touche de magie en machine learning. Entre deux lignes de code, je partage ma passion tech sur YouTube pour éclairer les esprits curieux. Toujours prêt à apprendre, innover et transformer des idées en solutions percutantes. 🚀💻",
-  url: "https://username-blakvghost.com",
+  url: "https://kabirou-alassane.com",
   ogImage:
     "https://res.cloudinary.com/dgtzqvecw/image/upload/fl_preserve_transparency/v1727365323/bannier-test_wn6z9m.jpg",
 };
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: options.title,
     url: options.url,
-    siteName: "username-blakvghost.com",
+    siteName: "kabirou-alassane.com",
     locale: "fr-FR",
     type: "website",
     description: options.description,

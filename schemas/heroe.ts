@@ -5,7 +5,7 @@ export default defineType({
   name: "heroe",
   title: "Heroes",
   type: "document",
-  icon: FaGlasses,
+  icon: FaGlasses as unknown as any,
   fields: [
     defineField({
       name: "name",

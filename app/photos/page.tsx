@@ -9,11 +9,11 @@ import Social from "../components/shared/Social";
 
 export const metadata: Metadata = {
   title: "YouTube Vidéos | Kabirou ALASSANE",
-  metadataBase: new URL("https://username-blakvghost.com/photos"),
+  metadataBase: new URL("https://kabirou-alassane.com/photos"),
   description: "Explore youtube videos published by Kabirou ALASSANE",
   openGraph: {
     title: "YouTube Vidéos | Kabirou ALASSANE",
-    url: "https://username-blakvghost.com/photos",
+    url: "https://kabirou-alassane.com/photos",
     description: "Explore youtube videos published by Kabirou ALASSANE",
     images:
       "https://res.cloudinary.com/dgtzqvecw/image/upload/fl_preserve_transparency/v1727365323/bannier-test_wn6z9m.jpg",

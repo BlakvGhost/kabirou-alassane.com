@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://username-blakvghost.com"><img src="./public/logo.png" width="60px"></a>
+<a href="https://kabirou-alassane.com"><img src="./public/logo.png" width="60px"></a>
 </div>
 
 <div align="center">
-<h1>username-blakvghost.com</h1>
+<h1>kabirou-alassane.com</h1>
 <p>My personal portfolio website</p>
 </div>
 
@@ -30,9 +30,9 @@ Follow this guide to get this site runnning locally:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/BlakvGhost/username-blakvghost.com.git
+git clone https://github.com/BlakvGhost/kabirou-alassane.com.git
 
-cd username-blakvghost.com
+cd kabirou-alassane.com
 
 npm install
 ```
@@ -123,13 +123,13 @@ This portfolio is MIT-licensed so you are free to use it as an inspiration or yo
 [umami]: https://umami.is
 [nexttheme]: https://github.com/pacocoursey/next-themes
 [reactrefractor]: https://github.com/rexxars/react-refractor
-[site]: https://username-blakvghost.com
-[studio]: https://username-blakvghost.com/studio
-[studio-preview]: https://github.com/BlakvGhost/username-blakvghost.com/assets/62628408/a2574479-a352-4437-ba67-14bd976e48eb
-[site-preview]: https://github.com/BlakvGhost/username-blakvghost.com/assets/62628408/e84ac72f-1ba1-4c46-bfc0-2512ffa0e5fa
-[env-example]: https://github.com/BlakvGhost/username-blakvghost.com/blob/main/.env.example
+[site]: https://kabirou-alassane.com
+[studio]: https://kabirou-alassane.com/studio
+[studio-preview]: https://github.com/BlakvGhost/kabirou-alassane.com/assets/62628408/a2574479-a352-4437-ba67-14bd976e48eb
+[site-preview]: https://github.com/BlakvGhost/kabirou-alassane.com/assets/62628408/e84ac72f-1ba1-4c46-bfc0-2512ffa0e5fa
+[env-example]: https://github.com/BlakvGhost/kabirou-alassane.com/blob/main/.env.example
 [localhost]: http://localhost:3000
 [localhost-studio]: http://localhost:3000/studio
-[env-api]: https://github.com/BlakvGhost/username-blakvghost.com/blob/main/lib/env.api.ts
+[env-api]: https://github.com/BlakvGhost/kabirou-alassane.com/blob/main/lib/env.api.ts
 [sanity-manage]: https://sanity.io/manage
 [sanity-guide]: https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs

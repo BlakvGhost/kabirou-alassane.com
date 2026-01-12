@@ -5,7 +5,7 @@ export default defineType({
   name: "author",
   title: "Author",
   type: "document",
-  icon: BiUser,
+  icon: BiUser as unknown as any,
   fields: [
     defineField({
       name: "name",

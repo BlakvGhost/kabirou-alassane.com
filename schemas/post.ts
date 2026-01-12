@@ -6,7 +6,7 @@ export default defineType({
   name: "Post",
   title: "Blog Posts",
   type: "document",
-  icon: BiBookOpen,
+  icon: BiBookOpen as unknown as any,
   fields: [
     defineField({
       name: "title",

@@ -6,7 +6,7 @@ const project = {
   title: "Projects",
   description: "Project Schema",
   type: "document",
-  icon: BiPackage,
+  icon: BiPackage as unknown as any,
   fields: [
     {
       name: "name",

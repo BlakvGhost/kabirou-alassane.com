@@ -15,7 +15,7 @@ export default function RefLink({
 }) {
   return (
     <Link
-      href={href + "?ref=username-blakvghost.com"}
+      href={href + "?ref=kabirou-alassane.com"}
       rel="noopener"
       target={target}
       className={className}

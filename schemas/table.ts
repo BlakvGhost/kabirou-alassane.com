@@ -6,7 +6,7 @@ export const table = defineType({
   name: "customTable",
   title: "Table",
   type: "object",
-  icon: LuTable,
+  icon: LuTable as unknown as any,
   fields: [
     defineField({
       name: "table",

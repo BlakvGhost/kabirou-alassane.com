@@ -18,11 +18,11 @@ import { toPlainText } from "@portabletext/react";
 
 export const metadata: Metadata = {
   title: "Blog | Kabirou ALASSANE",
-  metadataBase: new URL("https://username-blakvghost.com/blog"),
+  metadataBase: new URL("https://kabirou-alassane.com/blog"),
   description: "Read latest stories from Kabirou ALASSANE's Blog",
   openGraph: {
     title: "Blog | Kabirou ALASSANE",
-    url: "https://username-blakvghost.com/blog",
+    url: "https://kabirou-alassane.com/blog",
     description: "Read latest stories from Kabirou ALASSANE's Blog",
     images:
       "https://res.cloudinary.com/victoreke/image/upload/v1692636087/victoreke/blog.png",
